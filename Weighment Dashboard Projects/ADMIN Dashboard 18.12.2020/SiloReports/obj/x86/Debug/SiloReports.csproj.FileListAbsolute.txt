@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\SiloReports\SiloReports\obj\x86\Debug\SiloReports.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SiloReports\SiloReports\obj\x86\Debug\SiloReports.exe
+C:\Users\Administrator\Desktop\SiloReports\SiloReports\obj\x86\Debug\SiloReports.pdb
+G:\My practicals\SiloReports\SiloReports\bin\Debug\SiloReports.exe
+G:\My practicals\SiloReports\SiloReports\bin\Debug\SiloReports.pdb
+G:\My practicals\SiloReports\SiloReports\obj\x86\Debug\SiloReports.csproj.ResolveComReference.cache
+G:\My practicals\SiloReports\SiloReports\obj\x86\Debug\SiloReports.Form1.resources
+G:\My practicals\SiloReports\SiloReports\obj\x86\Debug\SiloReports.Properties.Resources.resources
+G:\My practicals\SiloReports\SiloReports\obj\x86\Debug\SiloReports.csproj.GenerateResource.Cache
+G:\My practicals\SiloReports\SiloReports\obj\x86\Debug\SiloReports.exe
+G:\My practicals\SiloReports\SiloReports\obj\x86\Debug\SiloReports.pdb
+D:\2018\SiloReports CE OM KTPP\SiloReports\obj\x86\Debug\SiloReports.csproj.ResolveComReference.cache
+D:\2018\SiloReports CE OM KTPP\SiloReports\obj\x86\Debug\SiloReports.exe
+D:\2018\SiloReports CE OM KTPP\SiloReports\obj\x86\Debug\SiloReports.pdb
+D:\2018\SiloReports CE OM KTPP\SiloReports\bin\Debug\SiloReports.exe
+D:\2018\SiloReports CE OM KTPP\SiloReports\bin\Debug\SiloReports.pdb
+D:\2018\SiloReports CE OM KTPP\SiloReports\obj\x86\Debug\SiloReports.Form1.resources
+D:\2018\SiloReports CE OM KTPP\SiloReports\obj\x86\Debug\SiloReports.Properties.Resources.resources
+D:\2018\SiloReports CE OM KTPP\SiloReports\obj\x86\Debug\SiloReports.csproj.GenerateResource.Cache
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\obj\x86\Debug\SiloReports.csproj.ResolveComReference.cache
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\obj\x86\Debug\SiloReports.exe
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\obj\x86\Debug\SiloReports.pdb
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\bin\Debug\SiloReports.exe
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\bin\Debug\SiloReports.pdb
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\obj\x86\Debug\SiloReports.Form1.resources
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\obj\x86\Debug\SiloReports.Properties.Resources.resources
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\obj\x86\Debug\SiloReports.csproj.GenerateResource.Cache
+D:\2018\DEC 2019\ASH Reports Dashboard 18.12.2019\SiloReports\obj\x86\Debug\SiloReports.frmMainMenu.resources
